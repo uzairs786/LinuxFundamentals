@@ -1,7 +1,5 @@
 # 📁 Programs and Binaries
 
-# Programs and Binaries
-
 Commands in Linux are in-fact small programs written in a programming language
 They are compiled into a format that the computer can execute, also known as a `Binary`
 
