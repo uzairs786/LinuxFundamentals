@@ -3,5 +3,5 @@ This repository will document my journey into learning the **Fundamentals of Lin
 
 # What you will find 📖
 - **Introduction 📔**: An overview of what Linux is and its importance 
-- **Personalised Notes 🗒️**: Easy-to-follow Notes on some of the core concepts and commands I have learnt in Linux
+- **Personalised Guide 🗒️**: Easy-to-follow Notes on some of the core concepts and commands I have learnt in Linux
 - **OverTheWire Bandit Game 🎮**: A run-through of Levels 1-15 of the OverTheWire Bandit Game which gives you a hands-on approach to Linux!
