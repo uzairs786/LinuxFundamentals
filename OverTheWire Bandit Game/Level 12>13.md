@@ -23,3 +23,5 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 16. `gzip -dc data8.bin > stage6`
 17. `file stage6`: ASCII Text
 18. `cat stage6`: `The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn`
+
+Here the file has been **repeatedly** compressed so we had to essentially decompress many layers of different types of data.
