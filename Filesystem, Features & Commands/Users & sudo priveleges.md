@@ -14,7 +14,7 @@
 - A new user does NOT have sudo privileges
 - Any sudo command will return: `newuser is not in the sudoers file. This incident will be reported.`
 - **Granting sudo privileges**:
-1. Switch back ro a sudo-enabled account
+1. Switch back to a sudo-enabled account
 2. Add user to the **sudo group**: `sudo usermod -aG newuser`
 3. Revoking sudo access: `sudo deluser newuser sudo`
 
